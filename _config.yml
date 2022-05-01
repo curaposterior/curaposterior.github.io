@@ -30,10 +30,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  curaposterior
 
 # Build settings
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:categories/:year/:month/:day/:title/
 markdown: kramdown
-paginate: 5
-paginate_path: ":/num/"
+#paginate: 5
+#paginate_path: ":/num/"
 theme: minima
 plugins:
   - jekyll-feed

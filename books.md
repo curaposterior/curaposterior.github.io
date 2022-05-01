@@ -2,6 +2,7 @@
 layout: default
 title: Books
 categories: resources
+permalink: /books/
 ---
 
 # Hi!
