@@ -32,16 +32,20 @@ github_username:  curaposterior
 # Build settings
 permalink: /:categories/:year/:month/:day/:title/
 markdown: kramdown
-#paginate: 5
-#paginate_path: ":/num/"
+
+#
+minima:
+  skin: dark
+
 theme: minima
 plugins:
   - jekyll-feed
 
+
+
 collections:
   writeups:
     output: true
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
