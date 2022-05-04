@@ -5,7 +5,7 @@
 layout: default
 ---
 
-## Welcome to my blog
+# Welcome to my blog
 {: style="font-size: 200%; text-align: center;"}
 
 
